@@ -5,7 +5,7 @@ The PC game "My Homeland: Gainy" is a 2D pixel puzzle platformer designed to pop
 
 ## Documentation 
 
-You can get acquainted with the technical documentation for the project ->
+You can get acquainted with the technical documentation for the project -> https://github.com/der-uwu/Game-My-Homeland-Gainy/tree/main/technical%20documentation
 
 ## Updates
 
@@ -25,7 +25,7 @@ There is no license provided by github, but it is prohibited for commercial use,
 
 ## Документация
 
-Ознакомиться с технической документацией к проекту можно ->
+Ознакомиться с технической документацией к проекту можно -> https://github.com/der-uwu/Game-My-Homeland-Gainy/tree/main/technical%20documentation
 
 ## Обновления
 
